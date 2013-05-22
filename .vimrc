@@ -14,4 +14,4 @@ set autoindent
 
 set ruler
 
-colorscheme blackboard
+colorscheme torte 
